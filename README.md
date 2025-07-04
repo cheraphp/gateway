@@ -1,3 +1,5 @@
+# **⚠️ Proje satılıktır, projeyi satın almak veya göz atmak için [Discord](https://discord.com/users/1104504684846268507) adresinden bana ulaşabilirsiniz.** 
+
 # 🔐 GateWay - Modern License Management System
 
 Modern ve güvenli lisans yönetim sistemi. Yazılım ürünlerinizi koruyun ve lisanslarınızı kolayca yönetin.
