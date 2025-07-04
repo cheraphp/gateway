@@ -11,6 +11,24 @@ Modern ve güvenli lisans yönetim sistemi. Yazılım ürünlerinizi koruyun ve 
 - 🌙 **Modern Arayüz** - Karanlık/Açık tema desteği
 - 📱 **Responsive Tasarım** - Tüm cihazlarda mükemmel görünüm
 
+## 🖼️ Demo Görseller
+
+Aşağıda GateWay arayüzünün bazı ekran görüntülerini bulabilirsiniz:
+
+<table>
+  <tr>
+    <td><img src="fotograflar/photo1.png" width="300"/></td>
+    <td><img src="fotograflar/photo2.png" width="300"/></td>
+    <td><img src="fotograflar/photo3.png" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="fotograflar/photo4.png" width="300"/></td>
+    <td><img src="fotograflar/photo5.png" width="300"/></td>
+    <td><img src="fotograflar/photo6.png" width="300"/></td>
+  </tr>
+</table>
+
+
 ## 🚀 Hızlı Başlangıç
 
 ### Kurulum
